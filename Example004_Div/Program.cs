@@ -2,4 +2,4 @@
 double numberB = 5;
 System.Console.WriteLine(numberA / numberB);
 
-double("Вещественные числа")
+// double("Вещественные числа")
