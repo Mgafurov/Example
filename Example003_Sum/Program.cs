@@ -4,3 +4,5 @@ int numberB = new Random().Next(1, 10);
 System.Console.WriteLine(numberB);
 int result = numberA + numberB;
 System.Console.WriteLine(result);
+
+// int ("Целые чиста")
