@@ -10,3 +10,6 @@ else
     System.Console.Write("Привет,");
     System.Console.WriteLine(username);
 }
+
+// if("Проверка")
+// else("если не совпадает")
