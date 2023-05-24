@@ -1,6 +1,6 @@
 ﻿Console.Clear();
-// Console.SetCursorPosition(10, 4);
-// Console.WriteLine("+");
+// Console.SetCursorPosition(10, 4); Помогает рисовать(делать отступы)
+// Console.WriteLine("+"); Выводит результат
 
 int xa = 1, ya = 1,
     xb = 1, yb = 30,
